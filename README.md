@@ -8,7 +8,7 @@ PROYECTO DE PRÁCTICAS FINALES
 
 ## 
 1. **[Instalación de Entorno conda](./T1Conda.ipynb)**: ¿Qué hay dentro de un archivo .root?
-2. **[Física de Mesones B](./Leccion_2_Masa.ipynb)**: Cálculo de Masa Invariante.
+2. **[Instalación de ROOT](./T2ROOT)**: Cálculo de Masa Invariante.
 
 ---
 *Desarrollado para el proyecto ECFM.*# Analysis_OpenData
